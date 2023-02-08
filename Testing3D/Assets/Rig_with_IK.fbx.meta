@@ -390,7 +390,7 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
     - name: Base_Human:L_Leg
       parentName: Rig_with_IK(Clone)
-      position: {x: -0.0039099995, y: 0.0006, z: -0.0019999996}
+      position: {x: -0.0039099995, y: -0.02454999, z: -0.0019999996}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: Base_Human:polySurface5
@@ -405,7 +405,7 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
     - name: Base_Human:R_Leg
       parentName: Rig_with_IK(Clone)
-      position: {x: 0.00391, y: 0.0016, z: -0.0019999999}
+      position: {x: 0.00391, y: -0.024549996, z: -0.0019999999}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     armTwist: 0.5
